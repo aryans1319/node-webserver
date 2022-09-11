@@ -1,4 +1,4 @@
-# "Build a Web Server with only Node.js"
+# Build a Web Server with only Node.js
 
 **Description:**
 
