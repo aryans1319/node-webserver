@@ -1,0 +1,1 @@
+20220913	12:10:15	519e66ba-ab5d-43bc-83db-1be17c707e46	Error: Not Allowed by CORS
